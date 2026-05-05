@@ -1,0 +1,8 @@
+{
+  "name": "scanner-panel",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "latest"
+  }
+}
